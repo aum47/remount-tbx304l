@@ -1,7 +1,7 @@
 id=MMT-Ex
-name=Magisk Module Template Extended
+name=R/W TB-X304L
 version=v3.7
 versionCode=19
-author=Zackptg5
-description=Magisk Module Template Extended
+author=aum47
+description=title
 updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
