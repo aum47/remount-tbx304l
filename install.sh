@@ -1,4 +1,5 @@
 #!/system/bin/sh
+# This runs at install time in Magisk
 ui_print "Installing remount module..."
-# Ensure script is executable
+cp -a common/post-fs-data.sh $MODPATH/post-fs-data.sh
 chmod 755 $MODPATH/post-fs-data.sh
